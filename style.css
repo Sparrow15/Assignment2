@@ -1,0 +1,103 @@
+h1{
+  background-color: black;
+  color: magenta;
+  margin-top: 100px;
+  text-align: center;
+  border: groove;
+  margin-top:auto;
+}
+#hyperlink1{
+  font-size: 40px;
+  font-family: sans-serif;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color:blue;
+}
+ a:hover{
+  color:red;
+}
+
+body{
+  border: double;
+  background-color: white;
+  font-size: medium;
+  font-size: 20px;
+}
+
+img{
+  width: 300px;
+  display: block;
+  margin: auto;
+  
+}
+#TomCruise{
+  box-sizing: content-box;
+  border-bottom-color:red;
+  border-top-color:red;
+  border-left-color :red;
+  margin-bottom:auto;
+  background-color:khaki;
+}
+#MovieList{
+  margin-right: 170px;
+  
+}
+#HeadTom{
+  font-size: 70px;
+}
+.myTable,.movie_List,.movie_Year{
+  border: double;
+  align-content: center;
+}
+.movie_List{
+  font-family: fantasy;
+  background-color:red;
+  
+}
+#movieList{
+  
+  
+  
+}
+.movie_Year{
+  font-family: fantasy;
+  font-size: larger;
+  background-color:yellow;
+  
+}
+.yearRow{
+  border: double;
+  table-layout: auto;
+  font-style: oblique;
+  width: 150px;
+  
+}
+.Mvyear{
+  border: double;
+  border-left: double;
+  text-align: center;
+  width: 200px;
+  background-color: brown;
+}
+.Mvname{
+  border:double;
+  background-color:yellow;
+  
+}
+
+#dateSelect{
+  border: double;
+  border-color: indigo;
+  border-style: outset;
+}
+
+#dateSubmit{
+  border-color: red;
+  border-style: outset; 
+}
+footer{
+  text-align: center;
+}
